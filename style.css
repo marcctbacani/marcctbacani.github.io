@@ -33,7 +33,30 @@ body {
     box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
 }
 
+ul {
+    list-style: none;
+}
 
+.profile {
+    width: 100px;
+    height: 100px;
+    border-radius: 1px;
+}
+
+.list-inline {
+    padding-left: 0;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+
+
+.city_img {
+     width: 200px;
+    height: auto;
+}
 
 h1 {
     ;
@@ -42,7 +65,6 @@ h1 {
 h2 {
     
 }
-
 
 
 
