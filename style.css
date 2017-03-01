@@ -1,0 +1,51 @@
+body {
+    color: rgb(81, 81, 81);
+    background-color: #232323;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    color: #7d7d7d;
+    font-size: 15px;
+    line-height: 1.6em;
+}
+body {
+    display: block;
+    margin: 8px;
+}
+
+.container {
+  width: 700px;   
+  margin: 30px auto;
+    margin-top: 30px;
+    margin-right: auto;
+    margin-bottom: 30px;
+    margin-left: auto;
+  
+}
+
+.text-center {
+    text-align: center;
+}
+.card {
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2);
+}
+
+
+
+h1 {
+    ;
+}
+
+h2 {
+    
+}
+
+
+
+
+
+
+
